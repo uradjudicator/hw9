@@ -3,3 +3,67 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{ 
+    
+    background-color: #282828;
+    color: #fff;
+    
+    box-sizing: border-box;
+
+position: absolute;
+width: 1100px;
+height: 656px;
+left: 405px;
+top: 100px;
+
+border: 3px solid #C4C4C4;
+
+}
+.container{
+    width: 736px;
+    
+    margin: 0 auto;
+    
+}
+.navbar{
+    font-family: 'Montserrat';
+    text-align: center ;
+    width: 85px;
+}
+.hero{ 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header .top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 187px 40px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Playfair Display';
+}
+hr{
+    width: 170px;
+    position: absolute;
+    left: 460px;
+}
+p{ 
+   position: absolute;
+    width: 733px;
+    font-size: 16px;
+    line-height: 150%;
+    font-weight: 400px;
+    text-align: center;
+    font-family: 'Montserrat';
+    padding: 30px;
+font-style: normal;
+}
+
+.img{
+    position: absolute ;
+    padding: 270px 250px 160px;
+   
+}
+
